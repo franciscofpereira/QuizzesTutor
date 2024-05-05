@@ -1,5 +1,6 @@
 # QuizzesTutor
-Front-end prototype of a mobile quizz application 'Quizzes-Tutor'. Project for Human Computer Interaction class.
+
+Prototype mockups:
 
 ![Loginlogin](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/43788664-a68b-4296-952d-b723e2277e66)
       ![Main Menumain menu](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/56cb533b-6d41-4a2b-9f11-a9dc50d4ca9d)
