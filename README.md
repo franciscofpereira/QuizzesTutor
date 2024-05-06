@@ -2,8 +2,7 @@
 
 Prototype mockups:
 
-
-https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/d8b59c11-a0b0-4651-9e35-c1a29f96fb56
+[Screencast from 06-05-24 22:09:41.webm](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/80db637f-2356-4d90-8660-406a007189e6)
 
 
 ![Loginlogin](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/43788664-a68b-4296-952d-b723e2277e66)
