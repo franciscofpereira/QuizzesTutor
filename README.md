@@ -1,10 +1,5 @@
 # QuizzesTutor
 
-
-## User experience
-[Screencast from 06-05-24 22:09:41.webm](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/80db637f-2356-4d90-8660-406a007189e6)
-
-
 ## Prototype mockups:
 
 ![Loginlogin](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/43788664-a68b-4296-952d-b723e2277e66)
@@ -21,3 +16,6 @@
 
 ![DashboardDashboard](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/6ed05c70-ed86-4c46-a3b9-1a3b56d761b0)
 ![Settings Page](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/0e3f1162-683f-4748-b540-3f7860408fea)
+
+## User experience
+[Screencast from 06-05-24 22:09:41.webm](https://github.com/franciscofpereira/QuizzesTutor/assets/147160910/80db637f-2356-4d90-8660-406a007189e6)
